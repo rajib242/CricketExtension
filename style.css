@@ -1,0 +1,20 @@
+body{
+background-color: #4ab5b1;
+width: 400px;
+height: 250px;	
+}
+
+#matchesofcricket{
+    display: transparent;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.parent{
+	box-shadow: rgba(0, 0, 0, 1.0);
+}
+p{
+	font-size: 18px;
+	display: flex;
+	justify-content: center;
+}

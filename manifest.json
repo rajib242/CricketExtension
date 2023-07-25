@@ -1,0 +1,11 @@
+{
+	"name": "Cricket Chrome Extension",
+	"version": "1.0.0",
+	"description": "Here you can check the status of Cricket",
+	"manifest_version": 3,
+	"author": "Rajib Santra",
+	"action": {
+		"default_popup": "Index.html",
+		"default_title": "Cricket Extension"
+	}
+}
